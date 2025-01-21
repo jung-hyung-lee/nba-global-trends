@@ -1,0 +1,14 @@
+# Ignore Python environment & API keys
+.env
+__pycache__/
+.venv/
+.nba_venv/
+
+# Ignore word documents
+.docx
+
+# Ignore Power BI files
+.pbix
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints
