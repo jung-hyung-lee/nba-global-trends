@@ -5,10 +5,10 @@ __pycache__/
 .nba_venv/
 
 # Ignore word documents
-.docx
+*.docx
 
 # Ignore Power BI files
-.pbix
+*.pbix
 
 # Ignore Jupyter Notebook checkpoints
-.ipynb_checkpoints
+*.ipynb_checkpoints
