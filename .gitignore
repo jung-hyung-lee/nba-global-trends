@@ -1,5 +1,6 @@
 # Ignore Python environment & API keys
 .env
+*.env
 __pycache__/
 .venv/
 .nba_venv/
