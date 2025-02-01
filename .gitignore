@@ -13,3 +13,6 @@ __pycache__/
 
 # Ignore Jupyter Notebook checkpoints
 *.ipynb_checkpoints
+
+# Ignore NBA logo image
+visualisation/nba-logo-transparent.png
